@@ -1,0 +1,10 @@
+pcrid,race_onset,race_lkw,race_face,race_arm,race_leg,race_gaze,race_aphasia,race_agnosia,race_score,age_yrs,gender,year,lkw,lkw_minutes,nedi_id,scenelat,scenelong,esodestlat,esodestlong
+0000bc17-4d01-45ba-9d69-aaf900a45304,,10/31/2019 20:00,absent,severe,severe,present,severe,normal,7,87,male,2019,10/31/2019 19:59,2255.0598,3506,41.342018,-83.1498104,41.339891,-83.135269
+0000cf17-4fe0-42df-b25b-abe500991ae6,,,,,,,,,,57,female,2020,,,47,41.06721,-81.5465676,41.078499,-81.530594
+0000dbc0-31cd-4fef-8ce1-ac0f008e2a2c,,,,,,,,,,63,male,2020,,,4592,31.905331,-96.721023,31.514413,-97.19945
+0000f891-6cc5-42fe-9b6f-ab36011ed884,1/2/2020 11:00,1/2/2020 11:00,absent,normal,normal,absent,severe,normal,2,89,female,2020,1/2/2020 10:59,385.8392,1841,43.03704,-88.046868,43.038704,-88.024659
+0000fa81-982c-41b9-b5ab-acdd00ba79a9,,,,,,,,,,28,female,2021,,,1806,38.219985,-84.836464,38.16016,-84.90666
+0000fbd2-73eb-478e-9715-ac1a00d8b26b,,,moderate,moderate,severe,absent,moderate,moderate,6,81,male,2020,,,12623,30.0837224,-95.520246,30.205188,-95.451727
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,", ",,,,,,
